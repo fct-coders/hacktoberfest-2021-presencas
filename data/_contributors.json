@@ -123,7 +123,7 @@
     "username": "Ellyzeul",
     "about": "...",
     "year": "2019",
-    "languages": ["Python, Javascript, C, PHP, SQL"]
+    "languages": ["Python", "Javascript", "C", "PHP", "SQL"]
   },
   {
     "username": "CaduSantana",
@@ -135,7 +135,7 @@
     "username": "matheusmdr",
     "about": "ata",
     "year": "2019",
-    "languages": ["Python", "Javascript", React"]
+    "languages": ["Python", "Javascript", "React"]
   },
   {
    "username": "EGambel",
