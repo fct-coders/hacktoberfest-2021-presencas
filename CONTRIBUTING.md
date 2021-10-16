@@ -8,7 +8,7 @@ Para adicionar sua presença neste evento, siga os simples passos a seguir:
 2. Clone o seu fork em sua máquina local:
 
 ```bash
-git clone https://github.com/USER/hacktoberfest-presencas.git
+git clone https://github.com/USER/hacktoberfest-2021-presencas.git
 ```
 
 3. Abra o arquivo `data/_contributors.json` em algum editor de texto.
