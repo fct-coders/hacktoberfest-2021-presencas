@@ -94,5 +94,11 @@
     "about": "...",
     "year": "2019",
     "languages": ["Python, Javascript, C, PHP, SQL"]
+  },
+  {
+    "username": "CaduSantana",
+    "about": "Wuck Findows",
+    "year": "2020",
+    "languages": ["Java", "Python", "JavaScript"]
   }
 ]
