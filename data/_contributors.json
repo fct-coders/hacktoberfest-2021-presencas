@@ -42,6 +42,18 @@
     "languages": ["Javascript", "C"]
   },
   {
+    "username": "Matteus-ux",
+    "about": "Sei la mano",
+    "year": "2021",
+    "languages": ["C"]
+  },
+  {
+    "username": "DayaToledo",
+    "about": "Preciso de ACC :(",
+    "year": "2019",
+    "languages": ["Javascript", "C", "Java"]
+  },
+  {
     "username": "luanamarquesf",
     "about": "E vamos de ACC",
     "year": "2018",
@@ -58,5 +70,41 @@
     "about": "Cafezinho mto bom",
     "year": "2019",
     "languages": ["Python, PHP, Java, C++"]
+  },
+  {
+    "username": "MinorLess",
+    "about": "Hello",
+    "year": "2019",
+    "languages": ["Javascript", "Python", "C"]
+  },
+  {
+    "username": "FelipeClabone",
+    "about": "Preciso de um pc novo",
+    "year": "2020",
+    "languages": ["Python", "C"]
+  },
+  {
+    "username": "brunaanselmo",
+    "about": "Aloooooooooou",
+    "year": "2019",
+    "languages": ["Javascript"]
+  },
+  {
+    "username": "gabutamashiro",
+    "about": "oii",
+    "year": "2019",
+    "languages": ["Javascript"]
+  },
+  {
+    "username": "marble-zone",
+    "about": "Linguagens informais e prática da computação",
+    "year": "2019",
+    "languages": ["Python, C, C++"]
+  },
+  {
+    "username": "Ellyzeul",
+    "about": "...",
+    "year": "2019",
+    "languages": ["Python, Javascript, C, PHP, SQL"]
   }
 ]
