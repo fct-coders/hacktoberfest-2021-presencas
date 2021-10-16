@@ -42,6 +42,12 @@
     "languages": ["Javascript", "C"]
   },
   {
+    "username": "DayaToledo",
+    "about": "Preciso de ACC :(",
+    "year": "2019",
+    "languages": ["Javascript", "C", "Java"]
+  },
+  {
     "username": "luanamarquesf",
     "about": "E vamos de ACC",
     "year": "2018",
@@ -64,5 +70,17 @@
     "about": "Preciso de um pc novo",
     "year": "2020",
     "languages": ["Python", "C"]
+  },
+  {
+    "username": "brunaanselmo",
+    "about": "Aloooooooooou",
+    "year": "2019",
+    "languages": ["Javascript"]
+  },
+  {
+    "username": "gabutamashiro",
+    "about": "oii",
+    "year": "2019",
+    "languages": ["Javascript"]
   }
 ]
