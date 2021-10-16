@@ -69,13 +69,13 @@
     "username": "glyve99",
     "about": "pfv deus me faz passar no tcc",
     "year": "2018",
-    "languages": ["Python, Go, Javascript, Rust, C++"]
+    "languages": ["Python", "Go", "Javascript", "Rust", "C++"]
   },
   {
     "username": "FlautistaMacabro",
     "about": "Cafezinho mto bom",
     "year": "2019",
-    "languages": ["Python, PHP, Java, C++"]
+    "languages": ["Python", "PHP", "Java", "C++"]
   },
   {
     "username": "MinorLess",
@@ -129,7 +129,7 @@
     "username": "matheusmdr",
     "about": "ata",
     "year": "2019",
-    "languages": ["Python, Javascript, React"]
+    "languages": ["Python", "Javascript", React"]
   },
   {
    "username": "EGambel",
