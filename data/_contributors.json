@@ -30,6 +30,12 @@
     "languages": ["Javascript"]
   },
   {
+    "username": "mNzr0",
+    "about": "A verdadeira coragem é ser honesto consigo mesmo",
+    "year": "2021",
+    "languages": ["C"]
+  },
+  {
     "username": "murilopereirame",
     "about": "Horinhas pllz",
     "year": "2018",
@@ -64,6 +70,12 @@
     "about": "pfv deus me faz passar no tcc",
     "year": "2018",
     "languages": ["Python, Go, Javascript, Rust, C++"]
+  },
+  {
+    "username": "FlautistaMacabro",
+    "about": "Cafezinho mto bom",
+    "year": "2019",
+    "languages": ["Python, PHP, Java, C++"]
   },
   {
     "username": "MinorLess",
@@ -102,15 +114,33 @@
     "languages": ["Python, Javascript, C, PHP, SQL"]
   },
   {
+    "username": "CaduSantana",
+    "about": "Wuck Findows",
+    "year": "2020",
+    "languages": ["Java", "Python", "JavaScript"]
+  },
+  {
     "username": "matheusmdr",
     "about": "ata",
     "year": "2019",
     "languages": ["Python, Javascript, React"]
   },
   {
-    "username": "EGambel",
+   "username": "EGambel",
     "about": "serelepe ",
     "year": "2021",
     "languages": ["C"]
+  },
+  {
+    "username": "VictorEiji",
+    "about": "Desespero",
+    "year": "2021",
+    "languages": ["C"]
+  },
+  {
+    "username": "becelli",
+    "about": "Rusteando",
+    "year": "2020",
+    "languages": ["Python", "Javascript", "Rust", "MySQL"]
   }
 ]
