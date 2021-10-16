@@ -28,5 +28,11 @@
     "about": "Hi :D",
     "year": "2019",
     "languages": ["Javascript"]
+  },
+  {
+    "username": "GabrielaSinastre",
+    "about": "Só sei que nada sei",
+    "year": "2019",
+    "languages": ["Javascript", "C"]
   }
 ]
