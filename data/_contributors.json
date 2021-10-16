@@ -36,6 +36,30 @@
     "languages": ["Javascript", "Java", "Dart", "Python"]
   },
   {
+    "username": "GabrielaSinastre",
+    "about": "Só sei que nada sei",
+    "year": "2019",
+    "languages": ["Javascript", "C"]
+  },
+  {
+    "username": "luanamarquesf",
+    "about": "E vamos de ACC",
+    "year": "2018",
+    "languages": ["Javascript", "Java", "Angular"]
+  },
+  {
+    "username": "glyve99",
+    "about": "pfv deus me faz passar no tcc",
+    "year": "2018",
+    "languages": ["Python, Go, Javascript, Rust, C++"]
+  },
+  {
+    "username": "MinorLess",
+    "about": "Hello",
+    "year": "2019",
+    "languages": ["Javascript", "Python", "C"]
+  },
+  {
     "username": "brunaanselmo",
     "about": "Aloooooooooou",
     "year": "2019",
