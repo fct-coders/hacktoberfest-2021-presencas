@@ -3,266 +3,174 @@
     "username": "rafael-rosseto",
     "about": "Hack-time!",
     "year": "2019",
-    "languages": [
-      "C",
-      "C++",
-      "Qt",
-      "Bash",
-      "SQL"
-    ]
+    "languages": ["C", "C++", "Qt", "Bash", "SQL"]
   },
   {
     "username": "Yudi",
     "about": "É virose",
     "year": "2020",
-    "languages": [
-      ""
-    ]
+    "languages": [""]
   },
   {
     "username": "ga-sr",
     "about": "Vamo tentar completar as horas complementares",
     "year": "2018",
-    "languages": [
-      "Javascript",
-      "Python"
-    ]
+    "languages": ["Javascript", "Python"]
   },
   {
     "username": "GuiCT",
     "about": "é 13",
     "year": "2020",
-    "languages": [
-      "C++",
-      "Python",
-      "Java"
-    ]
+    "languages": ["C++", "Python", "Java"]
   },
   {
     "username": "maykborgs",
     "about": "Hi :D",
     "year": "2019",
-    "languages": [
-      "Javascript"
-    ]
+    "languages": ["Javascript"]
   },
   {
     "username": "mNzr0",
     "about": "A verdadeira coragem é ser honesto consigo mesmo",
     "year": "2021",
-    "languages": [
-      "C"
-    ]
+    "languages": ["C"]
   },
   {
     "username": "murilopereirame",
     "about": "Horinhas pllz",
     "year": "2018",
-    "languages": [
-      "Javascript",
-      "Java",
-      "Dart",
-      "Python"
-    ]
+    "languages": ["Javascript", "Java", "Dart", "Python"]
   },
   {
     "username": "GabrielaSinastre",
     "about": "Só sei que nada sei",
     "year": "2019",
-    "languages": [
-      "Javascript",
-      "C"
-    ]
+    "languages": ["Javascript", "C"]
   },
   {
     "username": "Matteus-ux",
     "about": "Sei la mano",
     "year": "2021",
-    "languages": [
-      "C"
-    ]
+    "languages": ["C"]
   },
   {
     "username": "DayaToledo",
     "about": "Preciso de ACC :(",
     "year": "2019",
-    "languages": [
-      "Javascript",
-      "C",
-      "Java"
-    ]
+    "languages": ["Javascript", "C", "Java"]
   },
   {
     "username": "luanamarquesf",
     "about": "E vamos de ACC",
     "year": "2018",
-    "languages": [
-      "Javascript",
-      "Java",
-      "Angular"
-    ]
+    "languages": ["Javascript", "Java", "Angular"]
   },
   {
     "username": "glyve99",
     "about": "pfv deus me faz passar no tcc",
     "year": "2018",
-    "languages": [
-      "Python",
-      "Go",
-      "Javascript",
-      "Rust",
-      "C++"
-    ]
+    "languages": ["Python", "Go", "Javascript", "Rust", "C++"]
   },
   {
     "username": "Menezes101",
     "about": "Rogério Ceni não é treinador por SP",
     "year": "2021",
-    "languages": [
-      "C"
-    ]
+    "languages": ["C"]
   },
   {
     "username": "FlautistaMacabro",
     "about": "Cafezinho mto bom",
     "year": "2019",
-    "languages": [
-      "Python",
-      "PHP",
-      "Java",
-      "C++"
-    ]
+    "languages": ["Python", "PHP", "Java", "C++"]
   },
   {
     "username": "MinorLess",
     "about": "Hello",
     "year": "2019",
-    "languages": [
-      "Javascript",
-      "Python",
-      "C"
-    ]
+    "languages": ["Javascript", "Python", "C"]
   },
   {
     "username": "FelipeClabone",
     "about": "Preciso de um pc novo",
     "year": "2020",
-    "languages": [
-      "Python",
-      "C"
-    ]
+    "languages": ["Python", "C"]
   },
   {
     "username": "brunaanselmo",
     "about": "Aloooooooooou",
     "year": "2019",
-    "languages": [
-      "Javascript"
-    ]
+    "languages": ["Javascript"]
   },
   {
     "username": "gabutamashiro",
     "about": "oii",
     "year": "2019",
-    "languages": [
-      "Javascript"
-    ]
+    "languages": ["Javascript"]
   },
   {
     "username": "Mariana4Alves",
     "about": "AwA AwA",
     "year": "2020",
-    "languages": [
-      "C",
-      "Python"
-    ]
+    "languages": ["C","Python"]
   },
   {
     "username": "marble-zone",
     "about": "Linguagens informais e prática da computação",
     "year": "2019",
-    "languages": [
-      "Python",
-      "C",
-      "C++"
-    ]
+    "languages": ["Python", "C", "C++"]
   },
   {
     "username": "Ellyzeul",
     "about": "...",
     "year": "2019",
-    "languages": [
-      "Python",
-      "Javascript",
-      "C",
-      "PHP",
-      "SQL"
-    ]
+    "languages": ["Python", "Javascript", "C", "PHP", "SQL"]
   },
   {
     "username": "Giovannacm",
     "about": "amiga do glyve99",
     "year": "2018",
-    "languages": [
-      "C",
-      "Java",
-      "Python",
-      "Javascript"
-    ]
+    "languages": ["C", "Java", "Python", "Javascript"]
   },
   {
     "username": "CaduSantana",
     "about": "Wuck Findows",
     "year": "2020",
-    "languages": [
-      "Java",
-      "Python",
-      "JavaScript"
-    ]
+    "languages": ["Java", "Python", "JavaScript"]
   },
   {
     "username": "matheusmdr",
     "about": "ata",
     "year": "2019",
-    "languages": [
-      "Python",
-      "Javascript",
-      "React"
-    ]
+    "languages": ["Python", "Javascript", "React"]
   },
   {
-    "username": "EGambel",
+   "username": "EGambel",
     "about": "serelepe ",
     "year": "2021",
-    "languages": [
-      "C"
-    ]
+    "languages": ["C"]
   },
   {
     "username": "VictorEiji",
     "about": "Desespero",
     "year": "2021",
-    "languages": [
-      "C"
-    ]
+    "languages": ["C"]
   },
   {
     "username": "becelli",
     "about": "Rusteando",
     "year": "2020",
-    "languages": [
-      "Python",
-      "Javascript",
-      "Rust",
-      "MySQL"
-    ]
+    "languages": ["Python", "Javascript", "Rust", "MySQL"]
+  },
+  {
+    "username": "gpacianotto",
+    "about": "Por que está tão sério? Você é a piada aqui!",
+    "year": "2018",
+    "languages": ["Javascript", "Typescript", "PHP", "Laravel", "Angular", "React"]
   },
   {
     "username": "pvicari",
     "about": "HackTime wak",
     "year": "2014",
-    "languages": [
-      "Javascript"
-    ]
+    "languages": ["Javascript"]
   }
 ]
