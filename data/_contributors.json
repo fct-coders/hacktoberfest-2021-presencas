@@ -166,5 +166,11 @@
     "about": "Por que está tão sério? Você é a piada aqui!",
     "year": "2018",
     "languages": ["Javascript", "Typescript", "PHP", "Laravel", "Angular", "React"]
+  },
+  {
+    "username": "pvicari",
+    "about": "HackTime wak",
+    "year": "2014",
+    "languages": ["Javascript"]
   }
 ]
