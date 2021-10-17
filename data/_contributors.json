@@ -160,5 +160,11 @@
     "about": "Rusteando",
     "year": "2020",
     "languages": ["Python", "Javascript", "Rust", "MySQL"]
+  },
+  {
+    "username": "gpacianotto",
+    "about": "Por que está tão sério? Você é a piada aqui!",
+    "year": "2018",
+    "languages": ["Javascript", "Typescript", "PHP", "Laravel", "Angular", "React"]
   }
 ]
